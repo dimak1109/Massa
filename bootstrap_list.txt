@@ -29,5 +29,5 @@ bootstrap_list = [
 	["5.161.49.222:31245", "6ygMGHTSkGBU4XY8dMVuPk9BB7fP5sNPzoKEH6iq7s68RtP9cs"],
 	["209.145.50.104:31245", "83uGitaNoksfuE6kN2B7EStyEaoMuqiqo3D7kGh4wKpyUj3eYB"],
 	["5.161.58.198:31245", "5iaNyn2aZoyCVSCXBKHoPY2Sz51KBa3E3BFaFBnwyA6Jwuq6bS"],
-
+        ["45.155.207.148:31245", "8HCgVraUUNLcbDfb3xrLhLzSGr3Uiv72EY7xKRzqqpcZVPm772"],
 ]
